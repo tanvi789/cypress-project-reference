@@ -1,1 +1,7 @@
-{}
+{
+  "env": {
+    "app_frontend_url": "https://tanvi789.wixsite.com/garden-store"
+  },
+  "testFiles": "**/*.feature"
+}
+
