@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cypress": "8.7.0"
+    "cypress": "^8.7.0"
   }
   "homepage": "https://github.com/tanvi789/cypress-book-prep#readme"
 }
